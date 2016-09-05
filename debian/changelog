@@ -1,3 +1,9 @@
+patience-cinnamon-artwork (2016.1.0~alpha-2) unstable; urgency=medium
+
+  * new bootstrap, new version
+
+ -- Alf Gaida <agaida@siduction.org>  Mon, 05 Sep 2016 17:54:36 +0200
+
 patience-cinnamon-artwork (2016.1.0~alpha-1) unstable; urgency=low
 
   * initial release
