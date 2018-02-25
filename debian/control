@@ -2,8 +2,8 @@ Source: patience-cinnamon-artwork
 Section: graphics
 Priority: extra
 Maintainer: Alf Gaida <agaida@siduction.org>
-Build-Depends: debhelper (>= 10),
-Standards-Version: 4.1.2
+Build-Depends: debhelper (>= 11),
+Standards-Version: 4.1.3
 Vcs-Git: https://git.siduction.org/artwork/env-cinnamon.git
 Vcs-Browser: https://git.siduction.org/artwork/env-cinnamon.git
 
