@@ -30,8 +30,8 @@ rm -f ./debian/install \
 
 
 if [ ! -e ./debian/changelog ]; then
-    sed -e "s/\@CODENAME_SAFE\@/${NAME}/g" \
-        -e "s/\@CODENAME\@/${DESCRIPTION}/g" \
+    sed -e "s/\@CODENAME\@/${CODENAME}/g" \
+        -e "s/\@CODENAME_SAFE\@/${CODENAME_SAFE}/g" \
         -e "s/\@VERSION\@/${VERSION}/g" \
         -e "s/\@FLAVOUR\@/${FLAVOUR}/g" \
         -e "s/\@DISPLAY\@/${DISPLAY}/g" \
@@ -42,24 +42,24 @@ fi
 
 cp ../template/debian/compat ./debian/compat
 
-sed -e "s/\@CODENAME_SAFE\@/${NAME}/g" \
-    -e "s/\@CODENAME\@/${DESCRIPTION}/g" \
+sed -e "s/\@CODENAME\@/${CODENAME}/g" \
+    -e "s/\@CODENAME_SAFE\@/${CODENAME_SAFE}/g" \
     -e "s/\@VERSION\@/${VERSION}/g" \
     -e "s/\@FLAVOUR\@/${FLAVOUR}/g" \
     -e "s/\@DISPLAY\@/${DISPLAY}/g" \
     ../template/debian/control \
     > ./debian/control
 
-sed -e "s/\@CODENAME_SAFE\@/${NAME}/g" \
-    -e "s/\@CODENAME\@/${DESCRIPTION}/g" \
+sed -e "s/\@CODENAME\@/${CODENAME}/g" \
+    -e "s/\@CODENAME_SAFE\@/${CODENAME_SAFE}/g" \
     -e "s/\@VERSION\@/${VERSION}/g" \
     -e "s/\@FLAVOUR\@/${FLAVOUR}/g" \
     -e "s/\@DISPLAY\@/${DISPLAY}/g" \
     ../template/debian/copyright \
     > ./debian/copyright
 
-sed -e "s/\@CODENAME_SAFE\@/${NAME}/g" \
-    -e "s/\@CODENAME\@/${DESCRIPTION}/g" \
+sed -e "s/\@CODENAME\@/${CODENAME}/g" \
+    -e "s/\@CODENAME_SAFE\@/${CODENAME_SAFE}/g" \
     -e "s/\@VERSION\@/${VERSION}/g" \
     -e "s/\@FLAVOUR\@/${FLAVOUR}/g" \
     -e "s/\@DISPLAY\@/${DISPLAY}/g" \
