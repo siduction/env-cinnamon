@@ -1,6 +1,7 @@
 #!/bin/bash
 
-NAME=paintitblack
-DISPLAY='paint it black'
-DESCRIPTION='PaintItBlack - next'
-VERSION=2016.1.0
+CODENAME=PaintItBlack
+CODENAME_SAFE=paintitblack
+DISPLAY=Cinnamon
+FLAVOUR=cinnamon
+VERSION=2018.3.0

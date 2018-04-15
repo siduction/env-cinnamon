@@ -1,3 +1,9 @@
+paintitblack-cinnamon-artwork (2018.3.0-1) unstable; urgency=medium
+
+  * new bootstrap for 2018.3.0
+
+ -- Alf Gaida <agaida@siduction.org>  Sun, 15 Apr 2018 21:44:27 +0200
+
 paintitblack-cinnamon-artwork (2016.08.03) unstable; urgency=medium
 
   * new bootstrap, new release 
