@@ -4,8 +4,8 @@
 *.swp
 
 ## build foo
-/debian/paintitblack-*/
 /debian/patience-*/
+/debian/xperimental-*/
 
 ## generated debian files
 /debian/debhelper-build-stamp

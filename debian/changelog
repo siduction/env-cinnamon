@@ -1,35 +1,5 @@
-paintitblack-cinnamon-artwork (2018.3.0-1) unstable; urgency=medium
-
-  * new bootstrap for 2018.3.0
-
- -- Alf Gaida <agaida@siduction.org>  Sun, 15 Apr 2018 21:44:27 +0200
-
-paintitblack-cinnamon-artwork (2016.08.03) unstable; urgency=medium
-
-  * new bootstrap, new release 
-
- -- Alf Gaida <agaida@siduction.org>  Mon, 05 Sep 2016 17:50:08 +0200
-
-paintitblack-cinnamon-artwork (2016.08.02) unstable; urgency=medium
-
-  * VERSION hardlinked
-
- -- Alf Gaida <agaida@siduction.org>  Thu, 11 Aug 2016 00:08:03 +0200
-
-paintitblack-cinnamon-artwork (2016.08.01) unstable; urgency=medium
-
-  * new bootstrap
-
- -- Alf Gaida <agaida@siduction.org>  Mon, 08 Aug 2016 20:50:23 +0200
-
-paintitblack-cinnamon-artwork (2015.08.01) unstable; urgency=medium
-
-  * package renamed, reworked
-
- -- Alf Gaida <agaida@siduction.org>  Sun, 02 Aug 2015 23:10:45 +0200
-
-paintitblack-cinnamon-artwork (2015.1.0) unstable; urgency=low
+xperimental-cinnamon-artwork (2019.1.0~1) unstable; urgency=medium
 
   * initial release
 
- -- Alf Gaida <agaida@siduction.org>  Sun, 02 Aug 2015 23:09:35 +0200
+ -- Alf Gaida <agaida@siduction.org>  Sat, 14 Sep 2019 00:38:18 +0200

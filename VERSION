@@ -1,7 +1,7 @@
 #!/bin/bash
 
-CODENAME=PaintItBlack
-CODENAME_SAFE=paintitblack
+CODENAME=Xperimental
+CODENAME_SAFE=xperimental
 DISPLAY=Cinnamon
 FLAVOUR=cinnamon
 VERSION=2018.3.0
