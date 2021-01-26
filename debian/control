@@ -1,4 +1,4 @@
-Source: patience-cinnamon-artwork
+Source: c-blues-cinnamon-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -7,14 +7,14 @@ Standards-Version: 4.1.3
 Vcs-Git: https://git.siduction.org/artwork/env-cinnamon.git
 Vcs-Browser: https://git.siduction.org/artwork/env-cinnamon.git
 
-Package: patience-cinnamon-artwork
+Package: c-blues-cinnamon-artwork
 Architecture: all
 Depends:
  ${misc:Depends},
- patience-wallpapers,
+ c-blues-wallpapers,
  siduction-icons,
 Recommends:
  dmz-cursor-theme
-Description: Cinnamon theme for Patience
+Description: Cinnamon theme for c-blues
  Release specific metapackage depending on icons and wallpapers to be
  used in combination with the Cinnamon  Desktop Environment.
