@@ -1,3 +1,9 @@
+cblues-cinnamon-artwork (2021.1.0) unstable; urgency=medium
+
+  * fix codename safe
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Sat, 30 Jan 2021 22:21:13 +0100
+
 c-blues-cinnamon-artwork (2021.1.0) unstable; urgency=medium
 
   [ Hendrik Lehmbruch ]

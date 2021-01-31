@@ -1,7 +1,7 @@
 #!/bin/bash
 
-CODENAME=c-blues
-CODENAME_SAFE=c-blues
+CODENAME=C-Blues
+CODENAME_SAFE=cblues
 DISPLAY=Cinnamon
 FLAVOUR=cinnamon
 VERSION=2021.1.0
