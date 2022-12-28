@@ -1,3 +1,9 @@
+mow-cinnamon-artwork (2022.1.0-1) unstable; urgency=medium
+
+  * Masters of War packaging
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Wed, 28 Dec 2022 22:10:04 +0100
+
 farewell-cinnamon-artwork (2021.2.0-1) unstable; urgency=medium
 
   * set final version
