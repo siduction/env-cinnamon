@@ -1,7 +1,7 @@
 #!/bin/bash
 
-CODENAME=wintersky
-CODENAME_SAFE=wintersky
+CODENAME=Standing on the Schoulders of Giants
+CODENAME_SAFE=giants
 DISPLAY=Cinnamon
 FLAVOUR=cinnamon
-VERSION=2021.3.0
+VERSION=2023.1
